@@ -2,13 +2,14 @@ html , body {
    height: 100%;
    width: 100%;
    margin:0;
+   background-color: burlywood;
 }
 
 #container{
+  background-color: white;
    display: flex;
    height: 630px;
-   margin-top:-70px;
-   padding: 0;
+   margin-top: 10px;
    width: 630px;
    margin-left: 300px;
    margin-bottom: 0;
@@ -38,13 +39,17 @@ html , body {
 
 
 button{
-  margin:20px 20px;
+  position: absolute;
+  margin:250px 50px;
   padding: 0;
   height: 50px;
-  width: 50px;
-  border: 1px solid white;
-  background-color: whitesmoke;
-  
+  width: 120px;
+  background-color: blue;
+  border: 1px solid blue;
+  color : white;
+  font-weight: 700;
+  font-size: large;
+  border-radius: 10px;
 }
 
     
