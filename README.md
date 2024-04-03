@@ -5,4 +5,4 @@ When mouse pointer is over a cell , that cell gets a random color .
 Each pass makes cell 10% darker and after 10 passes the cell becomes black .
 
 You can try it live here :
-https://shkelzen-hub.github.io/etch-a-sketch/
+https://shkelzen-dev.github.io/etch-a-sketch/
